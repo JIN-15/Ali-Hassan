@@ -72,6 +72,6 @@ Here are a few highlighted projects that showcase my work and contributions. Che
 - **Email**: [hassanakramali@gmail.com](mailto:hassanakramali@gmail.com)
 - **LinkedIn**: [Ali Hassan](https://linkedin.com/in/ali-hassan-08b306226)
 - **GitHub**: [JIN-15](https://github.com/JIN-15)
-- **Discord**: Ali Hassan (@jin_k15)
+- **Discord**: [Ali Hassan](@jin_k15)
 
 Feel free to reach out if you’d like to collaborate on projects or just want to connect. Let's innovate together!
